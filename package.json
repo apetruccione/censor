@@ -4,6 +4,16 @@
     "version": "1.0.3",
     "description": "Censors words out of text",
     "main": "censortext",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/apetruccione/censor"
+    },
+    "keywords": [
+        "censor",
+        "words",
+        "WTAMU",
+        "educational"
+        ],
     "dependencies": {},
     "engines": {
         "node": "*"
