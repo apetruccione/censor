@@ -1,7 +1,7 @@
 {
     "author": "Anthony Petruccione",
     "name": "censorify_4382_petruccione",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "Censors words out of text",
     "main": "censortext",
     "repository": {
